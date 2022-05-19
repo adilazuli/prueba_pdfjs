@@ -1,0 +1,34 @@
+{
+  "files": [
+    {
+      "name": "x",
+      "folder": [
+        {
+          "name": "y",
+          "folder": [
+            {
+              "name": "archivo_1",
+              "folder": false
+            }
+          ]
+        },
+        {
+          "name": "archivo_2",
+          "folder": false
+        },
+        {
+          "name": "archivo_3",
+          "folder": false
+        }
+      ]
+    },
+    {
+      "name": "archivo_4",
+      "folder": false
+    },
+    {
+      "name": "archivo_5",
+      "folder": false
+    }
+  ]
+}

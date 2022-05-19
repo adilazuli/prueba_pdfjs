@@ -1,0 +1,23 @@
+.dragActive-true {
+  background-color: lightblue;
+}
+
+.dragActive-false {
+  background-color: unset;
+}
+
+.registerModal {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.registerModal form {
+  z-index: 100;
+  background-color: white;
+}
+/*# sourceMappingURL=styles.css.map */
